@@ -1,5 +1,6 @@
 ---
 name: letsencrypt-windows
+version: 0.0.1
 description: >-
   Issue, renew, and maintain Let's Encrypt TLS certificates on Windows via ACME.
   Routes among win-acme, Posh-ACME, and Certify The Web; covers HTTP-01/DNS-01,
